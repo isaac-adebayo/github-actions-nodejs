@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs project to test github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac-adebayo/github-actions-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "github-actions"
+  ],
+  "author": "isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaac-adebayo/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/isaac-adebayo/github-actions-nodejs#readme"
+}
